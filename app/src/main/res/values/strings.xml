@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">हिसाब</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <!--    Insert screen texts-->
+    <string name="editTextFarmerName">सौरभ कौरव</string>
+    <string name="editTextTroliWeight">96.30</string>
+    <string name="editTextFactoryRate">320.00</string>
+    <string name="editTextDate">12/01/2022</string>
+    <string name="editTextLabourName">श्यामलाल</string>
+    <string name="editTextLabourRate">37.00</string>
+    <string name="editTextVehicleName">ट्रैक्टर</string>
+    <string name="editTextDriverName">देवेंद्र कौरव</string>
+    <string name="editTextVehicleRate">30.00</string>
+    <!--    <string name="editTextVehicleName">VehicleName</string>-->
+    <!--    <string name="editTextVehicleName">VehicleName</string>-->
+
+    <!--    insert screen label texts-->
+    <string name="textView1">किसान का नाम</string>
+    <string name="textView2">गन्ने का भाव</string>
+    <string name="textView3">शुद्ध वजन</string>
+    <string name="textView4">दिनांक</string>
+    <string name="textView5">लेबर का नाम</string>
+    <string name="textView6">लेबर रेट</string>
+    <string name="textView7">वाहन</string>
+    <string name="textView8">चालक का नाम</string>
+    <string name="textView9">वाहन रेट</string>
+    <string name="Button">Save</string>
+
+    <!--    View screen label texts-->
+    <string name="viewFarmerName">किसान : सौरभ कौरव</string>
+    <string name="viewTroliWeight">96.30</string>
+    <string name="viewFactoryRate">320.00</string>
+    <string name="viewDate">12/01/2022</string>
+    <string name="viewLabourName">श्यामलाल</string>
+    <string name="viewLabourRate">37.00</string>
+    <string name="viewVehicleName">ट्रैक्टर</string>
+    <string name="viewDriverName">देवेंद्र कौरव</string>
+    <string name="viewVehicleRate">30.00</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="validDataWarningMessage">Enter Valid Data</string>
+</resources>

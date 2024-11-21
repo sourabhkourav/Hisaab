@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Insert"
+        android:id="@+id/insert"
+        android:icon="@drawable/ic_insert_24"/>
+    <item android:title="View"
+        android:id="@+id/view"
+        android:icon="@drawable/ic_view_24"/>
+    <item android:title="Farmer"
+        android:id="@+id/farmer"
+        android:icon="@drawable/ic_farmer_24"/>
+    <item android:title="Driver"
+        android:id="@+id/driver"
+        android:icon="@drawable/ic_driver_24"/>
+    <item android:title="Labour"
+        android:id="@+id/labour"
+        android:icon="@drawable/ic_labour_24"/>
+</menu>

@@ -1,0 +1,61 @@
+# # Gradle files
+# .gradle/
+# build/
+# */build/
+
+# # Local configuration file (SDK location, signing keys, etc.)
+# local.properties
+
+# # Log files
+# *.log
+
+# # Android Studio specific files
+# .idea/
+# *.iml
+# *.iws
+# *.ipr
+
+# # Keystore files
+# *.jks
+
+# # OS-specific files
+# .DS_Store
+# Thumbs.db
+# desktop.ini
+
+# # Dependency directories
+# *.cxx/
+# *.externalNativeBuild/
+
+# # Crashlytics/Fabric
+# crashlytics.properties
+# crashlytics-build.properties
+# fabric.properties
+
+# # Firebase
+# google-services.json
+# firebase-debug.log
+
+# # ProGuard files
+# proguard/
+
+# # NDK
+# obj/
+# .externalNativeBuild/
+
+# # IntelliJ IDEA specific
+# .idea/workspace.xml
+# .idea/libraries/
+# .idea/tasks.xml
+# .idea/gradle.xml
+# .idea/dictionaries/
+# .idea/vcs.xml
+# .idea/misc.xml
+
+# # Others
+# *.apk
+# *.ap_
+# *.zip
+# *.aar
+# *.jar
+# *.war
